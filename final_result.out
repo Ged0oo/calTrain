@@ -574,3 +574,579 @@ Train departed station with 17 new passenger(s) (expected 17)
 Train entering station with 42 free seats
 Train departed station with 17 new passenger(s) (expected 17)
 Looks good!
+Test( 1 ) ................................................. :-
+Train entering station with 18 free seats
+Train departed station with 18 new passenger(s) (expected 18)
+Train entering station with 23 free seats
+Train departed station with 23 new passenger(s) (expected 23)
+Train entering station with 16 free seats
+Train departed station with 16 new passenger(s) (expected 16)
+Train entering station with 34 free seats
+Train departed station with 34 new passenger(s) (expected 34)
+Train entering station with 1 free seats
+Train departed station with 1 new passenger(s) (expected 1)
+Train entering station with 5 free seats
+Train departed station with 5 new passenger(s) (expected 5)
+Train entering station with 8 free seats
+Train departed station with 3 new passenger(s) (expected 3)
+Looks good!
+Test( 2 ) ................................................. :-
+Train entering station with 40 free seats
+Train departed station with 40 new passenger(s) (expected 40)
+Train entering station with 22 free seats
+Train departed station with 22 new passenger(s) (expected 22)
+Train entering station with 6 free seats
+Train departed station with 6 new passenger(s) (expected 6)
+Train entering station with 3 free seats
+Train departed station with 3 new passenger(s) (expected 3)
+Train entering station with 27 free seats
+Train departed station with 27 new passenger(s) (expected 27)
+Train entering station with 11 free seats
+Train departed station with 2 new passenger(s) (expected 2)
+Looks good!
+Test( 3 ) ................................................. :-
+Train entering station with 16 free seats
+Train departed station with 16 new passenger(s) (expected 16)
+Train entering station with 37 free seats
+Train departed station with 37 new passenger(s) (expected 37)
+Train entering station with 14 free seats
+Train departed station with 14 new passenger(s) (expected 14)
+Train entering station with 7 free seats
+Train departed station with 7 new passenger(s) (expected 7)
+Train entering station with 22 free seats
+Train departed station with 22 new passenger(s) (expected 22)
+Train entering station with 15 free seats
+Train departed station with 4 new passenger(s) (expected 4)
+Looks good!
+Test( 4 ) ................................................. :-
+Train entering station with 0 free seats
+Train departed station with 0 new passenger(s) (expected 0)
+Train entering station with 9 free seats
+Train departed station with 9 new passenger(s) (expected 9)
+Train entering station with 12 free seats
+Train departed station with 12 new passenger(s) (expected 12)
+Train entering station with 47 free seats
+Train departed station with 47 new passenger(s) (expected 47)
+Train entering station with 4 free seats
+Train departed station with 4 new passenger(s) (expected 4)
+Train entering station with 30 free seats
+Train departed station with 28 new passenger(s) (expected 28)
+Looks good!
+Test( 5 ) ................................................. :-
+Train entering station with 2 free seats
+Train departed station with 2 new passenger(s) (expected 2)
+Train entering station with 13 free seats
+Train departed station with 13 new passenger(s) (expected 13)
+Train entering station with 3 free seats
+Train departed station with 3 new passenger(s) (expected 3)
+Train entering station with 8 free seats
+Train departed station with 8 new passenger(s) (expected 8)
+Train entering station with 37 free seats
+Train departed station with 37 new passenger(s) (expected 37)
+Train entering station with 3 free seats
+Train departed station with 3 new passenger(s) (expected 3)
+Train entering station with 7 free seats
+Train departed station with 7 new passenger(s) (expected 7)
+Train entering station with 49 free seats
+Train departed station with 27 new passenger(s) (expected 27)
+Looks good!
+Test( 6 ) ................................................. :-
+Train entering station with 25 free seats
+Train departed station with 25 new passenger(s) (expected 25)
+Train entering station with 32 free seats
+Train departed station with 32 new passenger(s) (expected 32)
+Train entering station with 26 free seats
+Train departed station with 26 new passenger(s) (expected 26)
+Train entering station with 24 free seats
+Train departed station with 17 new passenger(s) (expected 17)
+Looks good!
+Test( 7 ) ................................................. :-
+Train entering station with 26 free seats
+Train departed station with 26 new passenger(s) (expected 26)
+Train entering station with 48 free seats
+Train departed station with 48 new passenger(s) (expected 48)
+Train entering station with 43 free seats
+Train departed station with 26 new passenger(s) (expected 26)
+Looks good!
+Test( 8 ) ................................................. :-
+Train entering station with 25 free seats
+Train departed station with 25 new passenger(s) (expected 25)
+Train entering station with 47 free seats
+Train departed station with 47 new passenger(s) (expected 47)
+Train entering station with 35 free seats
+Train departed station with 28 new passenger(s) (expected 28)
+Looks good!
+Test( 9 ) ................................................. :-
+Train entering station with 10 free seats
+Train departed station with 10 new passenger(s) (expected 10)
+Train entering station with 34 free seats
+Train departed station with 34 new passenger(s) (expected 34)
+Train entering station with 20 free seats
+Train departed station with 20 new passenger(s) (expected 20)
+Train entering station with 16 free seats
+Train departed station with 16 new passenger(s) (expected 16)
+Train entering station with 31 free seats
+Train departed station with 20 new passenger(s) (expected 20)
+Looks good!
+Test( 10 ) ................................................. :-
+Train entering station with 15 free seats
+Train departed station with 15 new passenger(s) (expected 15)
+Train entering station with 29 free seats
+Train departed station with 29 new passenger(s) (expected 29)
+Train entering station with 9 free seats
+Train departed station with 9 new passenger(s) (expected 9)
+Train entering station with 5 free seats
+Train departed station with 5 new passenger(s) (expected 5)
+Train entering station with 35 free seats
+Train departed station with 35 new passenger(s) (expected 35)
+Train entering station with 40 free seats
+Train departed station with 7 new passenger(s) (expected 7)
+Looks good!
+Test( 11 ) ................................................. :-
+Train entering station with 7 free seats
+Train departed station with 7 new passenger(s) (expected 7)
+Train entering station with 39 free seats
+Train departed station with 39 new passenger(s) (expected 39)
+Train entering station with 31 free seats
+Train departed station with 31 new passenger(s) (expected 31)
+Train entering station with 15 free seats
+Train departed station with 15 new passenger(s) (expected 15)
+Train entering station with 13 free seats
+Train departed station with 8 new passenger(s) (expected 8)
+Looks good!
+Test( 12 ) ................................................. :-
+Train entering station with 32 free seats
+Train departed station with 32 new passenger(s) (expected 32)
+Train entering station with 33 free seats
+Train departed station with 33 new passenger(s) (expected 33)
+Train entering station with 10 free seats
+Train departed station with 10 new passenger(s) (expected 10)
+Train entering station with 27 free seats
+Train departed station with 25 new passenger(s) (expected 25)
+Looks good!
+Test( 13 ) ................................................. :-
+Train entering station with 48 free seats
+Train departed station with 48 new passenger(s) (expected 48)
+Train entering station with 23 free seats
+Train departed station with 23 new passenger(s) (expected 23)
+Train entering station with 34 free seats
+Train departed station with 29 new passenger(s) (expected 29)
+Looks good!
+Test( 14 ) ................................................. :-
+Train entering station with 37 free seats
+Train departed station with 37 new passenger(s) (expected 37)
+Train entering station with 18 free seats
+Train departed station with 18 new passenger(s) (expected 18)
+Train entering station with 48 free seats
+Train departed station with 45 new passenger(s) (expected 45)
+Looks good!
+Test( 15 ) ................................................. :-
+Train entering station with 49 free seats
+Train departed station with 49 new passenger(s) (expected 49)
+Train entering station with 32 free seats
+Train departed station with 32 new passenger(s) (expected 32)
+Train entering station with 45 free seats
+Train departed station with 19 new passenger(s) (expected 19)
+Looks good!
+Test( 16 ) ................................................. :-
+Train entering station with 23 free seats
+Train departed station with 23 new passenger(s) (expected 23)
+Train entering station with 47 free seats
+Train departed station with 47 new passenger(s) (expected 47)
+Train entering station with 8 free seats
+Train departed station with 8 new passenger(s) (expected 8)
+Train entering station with 14 free seats
+Train departed station with 14 new passenger(s) (expected 14)
+Train entering station with 33 free seats
+Train departed station with 8 new passenger(s) (expected 8)
+Looks good!
+Test( 17 ) ................................................. :-
+Train entering station with 46 free seats
+Train departed station with 46 new passenger(s) (expected 46)
+Train entering station with 8 free seats
+Train departed station with 8 new passenger(s) (expected 8)
+Train entering station with 45 free seats
+Train departed station with 45 new passenger(s) (expected 45)
+Train entering station with 5 free seats
+Train departed station with 1 new passenger(s) (expected 1)
+Looks good!
+Test( 18 ) ................................................. :-
+Train entering station with 11 free seats
+Train departed station with 11 new passenger(s) (expected 11)
+Train entering station with 37 free seats
+Train departed station with 37 new passenger(s) (expected 37)
+Train entering station with 39 free seats
+Train departed station with 39 new passenger(s) (expected 39)
+Train entering station with 34 free seats
+Train departed station with 13 new passenger(s) (expected 13)
+Looks good!
+Test( 19 ) ................................................. :-
+Train entering station with 37 free seats
+Train departed station with 37 new passenger(s) (expected 37)
+Train entering station with 35 free seats
+Train departed station with 35 new passenger(s) (expected 35)
+Train entering station with 19 free seats
+Train departed station with 19 new passenger(s) (expected 19)
+Train entering station with 43 free seats
+Train departed station with 9 new passenger(s) (expected 9)
+Looks good!
+Test( 20 ) ................................................. :-
+Train entering station with 12 free seats
+Train departed station with 12 new passenger(s) (expected 12)
+Train entering station with 24 free seats
+Train departed station with 24 new passenger(s) (expected 24)
+Train entering station with 1 free seats
+Train departed station with 1 new passenger(s) (expected 1)
+Train entering station with 48 free seats
+Train departed station with 48 new passenger(s) (expected 48)
+Train entering station with 3 free seats
+Train departed station with 3 new passenger(s) (expected 3)
+Train entering station with 24 free seats
+Train departed station with 12 new passenger(s) (expected 12)
+Looks good!
+Test( 21 ) ................................................. :-
+Train entering station with 39 free seats
+Train departed station with 39 new passenger(s) (expected 39)
+Train entering station with 39 free seats
+Train departed station with 39 new passenger(s) (expected 39)
+Train entering station with 47 free seats
+Train departed station with 22 new passenger(s) (expected 22)
+Looks good!
+Test( 22 ) ................................................. :-
+Train entering station with 43 free seats
+Train departed station with 43 new passenger(s) (expected 43)
+Train entering station with 38 free seats
+Train departed station with 38 new passenger(s) (expected 38)
+Train entering station with 49 free seats
+Train departed station with 19 new passenger(s) (expected 19)
+Looks good!
+Test( 23 ) ................................................. :-
+Train entering station with 10 free seats
+Train departed station with 10 new passenger(s) (expected 10)
+Train entering station with 15 free seats
+Train departed station with 15 new passenger(s) (expected 15)
+Train entering station with 29 free seats
+Train departed station with 29 new passenger(s) (expected 29)
+Train entering station with 15 free seats
+Train departed station with 15 new passenger(s) (expected 15)
+Train entering station with 48 free seats
+Train departed station with 31 new passenger(s) (expected 31)
+Looks good!
+Test( 24 ) ................................................. :-
+Train entering station with 48 free seats
+Train departed station with 48 new passenger(s) (expected 48)
+Train entering station with 13 free seats
+Train departed station with 13 new passenger(s) (expected 13)
+Train entering station with 39 free seats
+Train departed station with 39 new passenger(s) (expected 39)
+Looks good!
+Test( 25 ) ................................................. :-
+Train entering station with 29 free seats
+Train departed station with 29 new passenger(s) (expected 29)
+Train entering station with 29 free seats
+Train departed station with 29 new passenger(s) (expected 29)
+Train entering station with 15 free seats
+Train departed station with 15 new passenger(s) (expected 15)
+Train entering station with 30 free seats
+Train departed station with 27 new passenger(s) (expected 27)
+Looks good!
+Test( 26 ) ................................................. :-
+Train entering station with 8 free seats
+Train departed station with 8 new passenger(s) (expected 8)
+Train entering station with 43 free seats
+Train departed station with 43 new passenger(s) (expected 43)
+Train entering station with 34 free seats
+Train departed station with 34 new passenger(s) (expected 34)
+Train entering station with 17 free seats
+Train departed station with 15 new passenger(s) (expected 15)
+Looks good!
+Test( 27 ) ................................................. :-
+Train entering station with 10 free seats
+Train departed station with 10 new passenger(s) (expected 10)
+Train entering station with 5 free seats
+Train departed station with 5 new passenger(s) (expected 5)
+Train entering station with 47 free seats
+Train departed station with 47 new passenger(s) (expected 47)
+Train entering station with 17 free seats
+Train departed station with 17 new passenger(s) (expected 17)
+Train entering station with 10 free seats
+Train departed station with 10 new passenger(s) (expected 10)
+Train entering station with 27 free seats
+Train departed station with 11 new passenger(s) (expected 11)
+Looks good!
+Test( 28 ) ................................................. :-
+Train entering station with 4 free seats
+Train departed station with 4 new passenger(s) (expected 4)
+Train entering station with 34 free seats
+Train departed station with 34 new passenger(s) (expected 34)
+Train entering station with 3 free seats
+Train departed station with 3 new passenger(s) (expected 3)
+Train entering station with 22 free seats
+Train departed station with 22 new passenger(s) (expected 22)
+Train entering station with 25 free seats
+Train departed station with 25 new passenger(s) (expected 25)
+Train entering station with 29 free seats
+Train departed station with 12 new passenger(s) (expected 12)
+Looks good!
+Test( 29 ) ................................................. :-
+Train entering station with 49 free seats
+Train departed station with 49 new passenger(s) (expected 49)
+Train entering station with 22 free seats
+Train departed station with 22 new passenger(s) (expected 22)
+Train entering station with 13 free seats
+Train departed station with 13 new passenger(s) (expected 13)
+Train entering station with 37 free seats
+Train departed station with 16 new passenger(s) (expected 16)
+Looks good!
+Test( 30 ) ................................................. :-
+Train entering station with 28 free seats
+Train departed station with 28 new passenger(s) (expected 28)
+Train entering station with 49 free seats
+Train departed station with 49 new passenger(s) (expected 49)
+Train entering station with 7 free seats
+Train departed station with 7 new passenger(s) (expected 7)
+Train entering station with 2 free seats
+Train departed station with 2 new passenger(s) (expected 2)
+Train entering station with 13 free seats
+Train departed station with 13 new passenger(s) (expected 13)
+Train entering station with 2 free seats
+Train departed station with 1 new passenger(s) (expected 1)
+Looks good!
+Test( 31 ) ................................................. :-
+Train entering station with 8 free seats
+Train departed station with 8 new passenger(s) (expected 8)
+Train entering station with 18 free seats
+Train departed station with 18 new passenger(s) (expected 18)
+Train entering station with 37 free seats
+Train departed station with 37 new passenger(s) (expected 37)
+Train entering station with 1 free seats
+Train departed station with 1 new passenger(s) (expected 1)
+Train entering station with 30 free seats
+Train departed station with 30 new passenger(s) (expected 30)
+Train entering station with 2 free seats
+Train departed station with 2 new passenger(s) (expected 2)
+Train entering station with 32 free seats
+Train departed station with 4 new passenger(s) (expected 4)
+Looks good!
+Test( 32 ) ................................................. :-
+Train entering station with 33 free seats
+Train departed station with 33 new passenger(s) (expected 33)
+Train entering station with 42 free seats
+Train departed station with 42 new passenger(s) (expected 42)
+Train entering station with 2 free seats
+Train departed station with 2 new passenger(s) (expected 2)
+Train entering station with 23 free seats
+Train departed station with 23 new passenger(s) (expected 23)
+Looks good!
+Test( 33 ) ................................................. :-
+Train entering station with 35 free seats
+Train departed station with 35 new passenger(s) (expected 35)
+Train entering station with 39 free seats
+Train departed station with 39 new passenger(s) (expected 39)
+Train entering station with 5 free seats
+Train departed station with 5 new passenger(s) (expected 5)
+Train entering station with 41 free seats
+Train departed station with 21 new passenger(s) (expected 21)
+Looks good!
+Test( 34 ) ................................................. :-
+Train entering station with 21 free seats
+Train departed station with 21 new passenger(s) (expected 21)
+Train entering station with 1 free seats
+Train departed station with 1 new passenger(s) (expected 1)
+Train entering station with 4 free seats
+Train departed station with 4 new passenger(s) (expected 4)
+Train entering station with 25 free seats
+Train departed station with 25 new passenger(s) (expected 25)
+Train entering station with 40 free seats
+Train departed station with 40 new passenger(s) (expected 40)
+Train entering station with 41 free seats
+Train departed station with 9 new passenger(s) (expected 9)
+Looks good!
+Test( 35 ) ................................................. :-
+Train entering station with 16 free seats
+Train departed station with 16 new passenger(s) (expected 16)
+Train entering station with 2 free seats
+Train departed station with 2 new passenger(s) (expected 2)
+Train entering station with 14 free seats
+Train departed station with 14 new passenger(s) (expected 14)
+Train entering station with 28 free seats
+Train departed station with 28 new passenger(s) (expected 28)
+Train entering station with 24 free seats
+Train departed station with 24 new passenger(s) (expected 24)
+Train entering station with 6 free seats
+Train departed station with 6 new passenger(s) (expected 6)
+Train entering station with 39 free seats
+Train departed station with 10 new passenger(s) (expected 10)
+Looks good!
+Test( 36 ) ................................................. :-
+Train entering station with 18 free seats
+Train departed station with 18 new passenger(s) (expected 18)
+Train entering station with 36 free seats
+Train departed station with 36 new passenger(s) (expected 36)
+Train entering station with 23 free seats
+Train departed station with 23 new passenger(s) (expected 23)
+Train entering station with 37 free seats
+Train departed station with 23 new passenger(s) (expected 23)
+Looks good!
+Test( 37 ) ................................................. :-
+Train entering station with 49 free seats
+Train departed station with 49 new passenger(s) (expected 49)
+Train entering station with 34 free seats
+Train departed station with 34 new passenger(s) (expected 34)
+Train entering station with 9 free seats
+Train departed station with 9 new passenger(s) (expected 9)
+Train entering station with 35 free seats
+Train departed station with 8 new passenger(s) (expected 8)
+Looks good!
+Test( 38 ) ................................................. :-
+Train entering station with 14 free seats
+Train departed station with 14 new passenger(s) (expected 14)
+Train entering station with 38 free seats
+Train departed station with 38 new passenger(s) (expected 38)
+Train entering station with 3 free seats
+Train departed station with 3 new passenger(s) (expected 3)
+Train entering station with 32 free seats
+Train departed station with 32 new passenger(s) (expected 32)
+Train entering station with 41 free seats
+Train departed station with 13 new passenger(s) (expected 13)
+Looks good!
+Test( 39 ) ................................................. :-
+Train entering station with 3 free seats
+Train departed station with 3 new passenger(s) (expected 3)
+Train entering station with 47 free seats
+Train departed station with 47 new passenger(s) (expected 47)
+Train entering station with 20 free seats
+Train departed station with 20 new passenger(s) (expected 20)
+Train entering station with 18 free seats
+Train departed station with 18 new passenger(s) (expected 18)
+Train entering station with 17 free seats
+Train departed station with 12 new passenger(s) (expected 12)
+Looks good!
+Test( 40 ) ................................................. :-
+Train entering station with 3 free seats
+Train departed station with 3 new passenger(s) (expected 3)
+Train entering station with 2 free seats
+Train departed station with 2 new passenger(s) (expected 2)
+Train entering station with 7 free seats
+Train departed station with 7 new passenger(s) (expected 7)
+Train entering station with 3 free seats
+Train departed station with 3 new passenger(s) (expected 3)
+Train entering station with 13 free seats
+Train departed station with 13 new passenger(s) (expected 13)
+Train entering station with 44 free seats
+Train departed station with 44 new passenger(s) (expected 44)
+Train entering station with 5 free seats
+Train departed station with 5 new passenger(s) (expected 5)
+Train entering station with 35 free seats
+Train departed station with 23 new passenger(s) (expected 23)
+Looks good!
+Test( 41 ) ................................................. :-
+Train entering station with 23 free seats
+Train departed station with 23 new passenger(s) (expected 23)
+Train entering station with 48 free seats
+Train departed station with 48 new passenger(s) (expected 48)
+Train entering station with 47 free seats
+Train departed station with 29 new passenger(s) (expected 29)
+Looks good!
+Test( 42 ) ................................................. :-
+Train entering station with 25 free seats
+Train departed station with 25 new passenger(s) (expected 25)
+Train entering station with 40 free seats
+Train departed station with 40 new passenger(s) (expected 40)
+Train entering station with 12 free seats
+Train departed station with 12 new passenger(s) (expected 12)
+Train entering station with 3 free seats
+Train departed station with 3 new passenger(s) (expected 3)
+Train entering station with 6 free seats
+Train departed station with 6 new passenger(s) (expected 6)
+Train entering station with 38 free seats
+Train departed station with 14 new passenger(s) (expected 14)
+Looks good!
+Test( 43 ) ................................................. :-
+Train entering station with 1 free seats
+Train departed station with 1 new passenger(s) (expected 1)
+Train entering station with 47 free seats
+Train departed station with 47 new passenger(s) (expected 47)
+Train entering station with 35 free seats
+Train departed station with 35 new passenger(s) (expected 35)
+Train entering station with 16 free seats
+Train departed station with 16 new passenger(s) (expected 16)
+Train entering station with 41 free seats
+Train departed station with 1 new passenger(s) (expected 1)
+Looks good!
+Test( 44 ) ................................................. :-
+Train entering station with 3 free seats
+Train departed station with 3 new passenger(s) (expected 3)
+Train entering station with 3 free seats
+Train departed station with 3 new passenger(s) (expected 3)
+Train entering station with 37 free seats
+Train departed station with 37 new passenger(s) (expected 37)
+Train entering station with 35 free seats
+Train departed station with 35 new passenger(s) (expected 35)
+Train entering station with 45 free seats
+Train departed station with 22 new passenger(s) (expected 22)
+Looks good!
+Test( 45 ) ................................................. :-
+Train entering station with 11 free seats
+Train departed station with 11 new passenger(s) (expected 11)
+Train entering station with 40 free seats
+Train departed station with 40 new passenger(s) (expected 40)
+Train entering station with 34 free seats
+Train departed station with 34 new passenger(s) (expected 34)
+Train entering station with 48 free seats
+Train departed station with 15 new passenger(s) (expected 15)
+Looks good!
+Test( 46 ) ................................................. :-
+Train entering station with 38 free seats
+Train departed station with 38 new passenger(s) (expected 38)
+Train entering station with 41 free seats
+Train departed station with 41 new passenger(s) (expected 41)
+Train entering station with 29 free seats
+Train departed station with 21 new passenger(s) (expected 21)
+Looks good!
+Test( 47 ) ................................................. :-
+Train entering station with 46 free seats
+Train departed station with 46 new passenger(s) (expected 46)
+Train entering station with 20 free seats
+Train departed station with 20 new passenger(s) (expected 20)
+Train entering station with 3 free seats
+Train departed station with 3 new passenger(s) (expected 3)
+Train entering station with 22 free seats
+Train departed station with 22 new passenger(s) (expected 22)
+Train entering station with 12 free seats
+Train departed station with 9 new passenger(s) (expected 9)
+Looks good!
+Test( 48 ) ................................................. :-
+Train entering station with 37 free seats
+Train departed station with 37 new passenger(s) (expected 37)
+Train entering station with 43 free seats
+Train departed station with 43 new passenger(s) (expected 43)
+Train entering station with 21 free seats
+Train departed station with 20 new passenger(s) (expected 20)
+Looks good!
+Test( 49 ) ................................................. :-
+Train entering station with 43 free seats
+Train departed station with 43 new passenger(s) (expected 43)
+Train entering station with 27 free seats
+Train departed station with 27 new passenger(s) (expected 27)
+Train entering station with 7 free seats
+Train departed station with 7 new passenger(s) (expected 7)
+Train entering station with 2 free seats
+Train departed station with 2 new passenger(s) (expected 2)
+Train entering station with 10 free seats
+Train departed station with 10 new passenger(s) (expected 10)
+Train entering station with 37 free seats
+Train departed station with 11 new passenger(s) (expected 11)
+Looks good!
+Test( 50 ) ................................................. :-
+Train entering station with 14 free seats
+Train departed station with 14 new passenger(s) (expected 14)
+Train entering station with 25 free seats
+Train departed station with 25 new passenger(s) (expected 25)
+Train entering station with 19 free seats
+Train departed station with 19 new passenger(s) (expected 19)
+Train entering station with 34 free seats
+Train departed station with 34 new passenger(s) (expected 34)
+Train entering station with 23 free seats
+Train departed station with 8 new passenger(s) (expected 8)
+Looks good!

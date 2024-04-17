@@ -1,13 +1,14 @@
 #include <pthread.h>
 
-struct station {
-	// FILL ME IN
+struct station 
+{
 	pthread_mutex_t train_mutex;
 	pthread_cond_t condition_full;
 	pthread_cond_t condition_arrival;
-	int wait_passengers;
-	int empty_places;
+
 	int on_board;
+	int empty_places;
+	int wait_passengers;
 };
 
 void station_init(struct station *station);
